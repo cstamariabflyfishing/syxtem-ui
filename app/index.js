@@ -1,3 +1,3 @@
-import SimpleButton from "./components/buttons/simple";
+import { SimpleButton } from "./components/buttons";
 
 export { SimpleButton };
